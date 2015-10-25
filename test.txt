@@ -1,0 +1,9 @@
+reflections repository test
+
+running 
+
+$ git init
+
+and 
+
+$ git status
